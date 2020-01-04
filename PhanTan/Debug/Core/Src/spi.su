@@ -1,0 +1,5 @@
+spi.c:31:6:MX_SPI1_Init	8	static
+spi.c:53:6:HAL_SPI_MspInit	48	static
+spi.c:96:6:HAL_SPI_MspDeInit	16	static
+spi.c:126:6:DWM1000_Init	4	static
+spi.c:131:6:DWM1000_exchange_data	8	static

@@ -1,0 +1,7 @@
+i2c.c:62:6:MX_I2C1_Init	8	static
+i2c.c:81:6:HAL_I2C_MspInit	40	static
+i2c.c:109:6:HAL_I2C_MspDeInit	16	static
+i2c.c:133:6:QMC5883L_Init	24	static
+i2c.c:148:6:read_QMC5883L	32	static,ignoring_inline_asm
+i2c.c:208:6:angle_diff_report	8	static
+i2c.c:235:6:car_moving_regulate	4	static
